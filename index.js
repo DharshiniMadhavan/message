@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
           <p class="message">To My Forever Valentine ❤️</p>
           <p class="message-sub">
            Dear Vichu ❤️,<br/><br/>
-            Here is my promise for a lifetime — no matter what happens, I will always be there for you. From now on, it’s not “you” or “me,” it’s “us.” We will grow together, laugh together, chase our goals together, and make a beautiful journey together.<br/><br/>
+            Here is my promise for a lifetime — no matter what happens, I will always be there for you. From this moment, it’s not “you” or “me,” it’s “us.” We will grow together, laugh together, chase our goals together, and make a beautiful journey together.<br/><br/>
             Words can’t explain how much I love you, but my actions always will. I wish we always understand each other — that’s our love language.<br/><br/>
             Ethuva irundhalum pathukalam.<br/><br/>
             I love you endlessly ❤️
